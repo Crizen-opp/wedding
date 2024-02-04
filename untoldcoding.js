@@ -12,7 +12,7 @@
       <meta property="og:image:type" content="image/jpeg" />
       <meta property="og:image:width" content="200">
       <meta property="og:image:height" content="200">
-      <title>Wedding Invitation | untoldcoding</title>
+      <title>Wedding Invitation | crizen</title>
       <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
       <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Dancing+Script&amp;display=swap'>
       <link rel="stylesheet" href="./css/style.css">
@@ -28,9 +28,9 @@
         
          <div class="title">
           <p><b>|| ॐ श्री महावीराय नमः || </b></p>
-            <h1>Nitin</h1>
+            <h1>CrZen</h1>
             <h2>&</h2>
-            <h1>Niharika</h1>
+            <h1>Glossy</h1>
             <h3>Are getting married</h3>
             <p>
                on <span class="date">14 February 2024</span></29>, At <span class="place"> 
